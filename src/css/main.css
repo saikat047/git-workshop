@@ -13,6 +13,10 @@ hr {
     padding: 0;
 }
 
+.p2 {
+	color: red;
+}
+
 fieldset {
     border: 0;
     margin: 0;
