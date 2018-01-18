@@ -2,10 +2,10 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+    background-color: gray;
 }
 
 hr {
-    display: block;
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
@@ -13,8 +13,11 @@ hr {
     padding: 0;
 }
 
+.p2 {
+	color: red;
+}
+
 fieldset {
-    border: 0;
     margin: 0;
     padding: 0;
 }
@@ -25,4 +28,8 @@ textarea {
 
 .hidden {
     display: none !important;
+}
+
+footer {
+    text-align: center;
 }
