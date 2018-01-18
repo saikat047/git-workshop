@@ -29,3 +29,7 @@ textarea {
 .hidden {
     display: none !important;
 }
+
+footer {
+    text-align: center;
+}
