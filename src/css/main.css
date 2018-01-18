@@ -26,3 +26,7 @@ textarea {
 .hidden {
     display: none !important;
 }
+
+#p01 {
+    text-align: center;
+}
